@@ -27,5 +27,5 @@ I had to take a few day break so I start counting again.
 - I worked on the first project. (Exploring Weather Trends) 
 
 ### D3: 03/28/2020:
-- Worked on project 1 a littlebit
-- PART 2. - Introduction to Data Analysis - Lesson 1 and 2 reviewed and finished
+- Worked on project 1 a littlebit, but after whole day cleaning I was too tired to finish it
+- PART 2. - Introduction to Data Analysis - Lesson 1 (Anaconda) and lesson 2 (Jupyter notebooks) reviewed and finished
