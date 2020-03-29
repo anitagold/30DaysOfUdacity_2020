@@ -25,3 +25,7 @@ I had to take a few day break so I start counting again.
 
 ### D2: 03/27/2020:
 - I worked on the first project. (Exploring Weather Trends) 
+
+### D3: 03/28/2020:
+- Worked on project 1 a littlebit
+- PART 2. - Introduction to Data Analysis - Lesson 1 and 2 reviewed and finished
