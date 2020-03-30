@@ -30,3 +30,8 @@ I had to take a few day break so I start counting again.
 - Worked on project 1 a little bit, but after the whole day cleaning the house I was too tired to finish it
 - PART 2. - Introduction to Data Analysis - Lesson 1 (Anaconda) and lesson 2 (Jupyter notebooks) reviewed and finished
 - Congrats @Magdi G-Ny, @lysmar_br for 11 day constant work!!!
+
+### D4: 03/29/2020:
+- Worked on project #1 a little bit
+- PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 1-5 finished
+- I'd like to encourage today  @Magdi G-Ny, @birozso, @Carlos Hidalgo, @Alana Benjamin, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang
