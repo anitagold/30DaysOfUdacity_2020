@@ -36,7 +36,12 @@ I had to take a few day break so I start counting again.
 - PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 1-5 finished
 - I'd like to encourage today  @Magdi G-Ny, @birozso, @Carlos Hidalgo, @Alana Benjamin, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang
 
-### D5: 03/29/2020:
+### D5: 03/30/2020:
 - Practiced Python
 - Datacamp ML course
+
+### D6: 03/31/2020:
+- Datacamp ML course continued
+- PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 6-13 finished
+- I'd like to encourage today  @Magdi G-Ny, @birozso, @Andrea Villanca, @Carlos Hidalgo, @Omar_B, @Ilias, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang, @vvidmar, @Alana Benjamin, @Cindy, @ClaudiaB, @Nuriye, @Rogério Gomes 
 
