@@ -43,5 +43,4 @@ I had to take a few day break so I start counting again.
 ### D6: 03/31/2020:
 - Datacamp ML course continued
 - PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 6-13 finished
-- I'd like to encourage today  @Magdi G-Ny, @birozso, @Andrea Villanca, @Carlos Hidalgo, @Omar_B, @Ilias, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang, @vvidmar, @Alana Benjamin, @Cindy, @ClaudiaB, @Nuriye, @Rogério Gomes 
-
+- I'd like to encourage today  @Magdi G-Ny, @birozso, @Andrea Villanca, @Carlos Hidalgo, @Omar_B, @Ilias, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang, @vvidmar, @Alana B., @Cindy, @Claudia Bellan, @Nuriye, @Rogério Gomes
