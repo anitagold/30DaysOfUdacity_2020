@@ -44,3 +44,14 @@ I had to take a few day break so I start counting again.
 - Datacamp ML course continued
 - PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 6-13 finished
 - I'd like to encourage today  @Magdi G-Ny, @birozso, @Andrea Villanca, @Carlos Hidalgo, @Omar_B, @Ilias, @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Yang, @vvidmar, @Alana B., @Cindy, @Claudia Bellan, @Nuriye, @Rogério Gomes
+
+### D7: 04/01/2020:
+- PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 14-20 finished
+- I'd like to encourage the newcomers today @Alana B., @Ndi Glen Nform, @Vvijayalakshmi21, @Shashi, @Olga Dimitrova 
+
+### D8: 04/02/2020:
+- worked on the project 1
+
+### D9: 04/03/2020:
+- worked on the project 1
+
