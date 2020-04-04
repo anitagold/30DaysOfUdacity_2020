@@ -55,3 +55,6 @@ I had to take a few day break so I start counting again.
 ### D9: 04/03/2020:
 - worked on the project 1
 
+### D10: 04/04/2020:
+- PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) Concepts 20-24 finished
+- I'd like to encourage today @Andrea Villanca, @Adebayo Ishola, @Hélio Júnior, @Nuriye, @Rogério Gomes
