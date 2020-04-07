@@ -60,4 +60,10 @@ I had to take a few day break so I start counting again.
 - I'd like to encourage today @Andrea Villanca, @Adebayo Ishola, @Hélio Júnior, @Nuriye, @Rogério Gomes
 
 ### D11: 04/05/2020:
-- PART 2. - Introduction to Data Analysis - Lesson 3 finished
+- PART 2. - Introduction to Data Analysis - Lesson 3 (The Data Analysis Process) finished
+
+### D12: 04/06/2020:
+- I registered to Data Analyst (Python) course in Pluralsight (Free April! www.pluralsight.com)
+- PART 2. - Introduction to Data Analysis - Lesson 4 (The Data Analysis Process - Case Study 1) 
+Concepts 1-7 finished
+- Encouragement goes to @Magdi G-Ny, @birozso, @Alana B., @Adebayo Ishola, @Hélio Júnior, @Guilherme Lamb, @Carlos Hidalgo
