@@ -28,3 +28,12 @@ I am doing 2 Nanodegrees (Data Analyst Nanodegree and Data Scientist Nanodegree)
 - Udacity started 50daysofudacity challenge one day after I started 30daysofudacity challenge, so I decided to extend my challenge into 50 days. 
 - Lesson 2: Introduction to Machine Learning - Concepts 6 - 10 finished.
 - 10% of this course finished.
+
+## Day 3: (07.15.2020.)
+### AWS-ML Scholarship:
+- Lesson 4: Introduction to Object-Oriented Programming - Concepts 14 - 19 finished.
+- 71% of this course finished.
+
+### Azure-ML Scholarship:
+- Lesson 2: Introduction to Machine Learning - Concepts 10 - 13 finished.
+- 12% of this course finished.
