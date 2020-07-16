@@ -37,3 +37,12 @@ I am doing 2 Nanodegrees (Data Analyst Nanodegree and Data Scientist Nanodegree)
 ### Azure-ML Scholarship:
 - Lesson 2: Introduction to Machine Learning - Concepts 10 - 13 finished.
 - 12% of this course finished.
+
+## Day 4: (07.16.2020.)
+### AWS-ML Scholarship:
+- Lesson 4: Introduction to Object-Oriented Programming - Concepts 18 - 22 finished.
+- 74% of this course finished.
+
+### Azure-ML Scholarship:
+- Lesson 2: Introduction to Machine Learning - Concepts 13 - 18 finished.
+- 15% of this course finished.
