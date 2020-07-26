@@ -58,3 +58,8 @@ I am doing 2 Nanodegrees (Data Analyst Nanodegree and Data Scientist Nanodegree)
 
 ## Day 6-13: (07.18.2020.-07.25.2020)
 Worked on my ML project: stock price forecasting
+
+## Day 14: (07.26.2020.)
+### AWS-ML Scholarship:
+- Lesson 5 : Concepts 1-10 finished
+
