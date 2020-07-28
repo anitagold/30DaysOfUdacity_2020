@@ -67,3 +67,7 @@ Worked on my ML project: stock price forecasting
 ### AWS-ML Scholarship:
 - Lesson 5 : Concepts 10-17 finished
 
+## Day 16: (07.28.2020.)
+### AWS-ML Scholarship:
+- Lesson 5, 6, 7 finished
+
