@@ -71,3 +71,14 @@ Worked on my ML project: stock price forecasting
 ### AWS-ML Scholarship:
 - Lesson 5, 6, 7 finished
 
+## Day 17: (07.29.2020.)
+### AWS-ML Scholarship:
+- Lessons and my notes reviewed and took the quiz
+
+## Day 18: (07.30.2020.)
+### Azure-ML Scholarship:
+- Lesson 2: Introduction to Machine Learning - Concepts 19 - 22 finished.
+
+
+
+
