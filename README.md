@@ -79,6 +79,23 @@ Worked on my ML project: stock price forecasting
 ### Azure-ML Scholarship:
 - Lesson 2: Introduction to Machine Learning - Concepts 19 - 22 finished.
 
+## Day 19: (07.31.2020.)
+### Azure-ML Scholarship:
+- Learned about Linear Regression
+
+## Day 20: (08.01.2020.) Day off
+
+## Day 21: (08.02.2020.)
+### Azure-ML Scholarship:
+- Lesson 2: Introduction to Machine Learning - Concepts  21 - 30 finished.
+- The first lab finished
+
+## Day 22: (08.03.2020.)
+### Azure-ML Scholarship:
+- Lesson 3: Model Training - Concepts  1 - 8 finished.
+
+
+
 
 
 
