@@ -114,6 +114,13 @@ Worked on my ML project: stock price forecasting
 - Lab 4 completed.
 - 34% of this course finished.
 
+## Day 28: (08.09.2020.)
+### Azure-ML Scholarship:
+- Lesson 3: Model Training - Concepts  18 - 26 finished.
+- 39% of this course finished.
+
+
+
 
 
 
