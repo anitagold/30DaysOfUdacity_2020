@@ -119,6 +119,10 @@ Worked on my ML project: stock price forecasting
 - Lesson 3: Model Training - Concepts  18 - 26 finished.
 - 39% of this course finished.
 
+## Day 29: (08.10.2020.)
+### Data Analyst Nanodegree: 
+- finished and submitted the first project
+
 
 
 
