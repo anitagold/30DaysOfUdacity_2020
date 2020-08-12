@@ -123,7 +123,15 @@ Worked on my ML project: stock price forecasting
 ### Data Analyst Nanodegree: 
 - finished and submitted the first project
 
+## Day 30: (08.11.2020.)
+### Data Analyst Nanodegree: 
+- #UdacityLevelUp! The project was accepted what I submitted yesterday 
+- Lesson 4: Data Analysis Process - Case Study 1 finished
 
+### Azure-ML Scholarship:
+- Lesson 3: Model Training - Concepts  26 - 30 finished.
+- Lab 5 completed
+- 42% of this course finished.
 
 
 
