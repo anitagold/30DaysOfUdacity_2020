@@ -133,6 +133,10 @@ Worked on my ML project: stock price forecasting
 - Lab 5 completed
 - 42% of this course finished.
 
+## Day 31: (08.12.2020.)
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+- Lesson 5: Data Analysis Process - Case Study 2: Concepts 1-8 finished
 
 
 
