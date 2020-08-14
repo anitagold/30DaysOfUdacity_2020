@@ -138,7 +138,15 @@ Worked on my ML project: stock price forecasting
 - I worked on the second project: Investigate a dataset
 - Lesson 5: Data Analysis Process - Case Study 2: Concepts 1-8 finished
 
+## Day 32: (08.13.2020.)
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+- Lesson 5: Data Analysis Process - Case Study 2 finished
 
+### Azure-ML Scholarship:
+- Lesson 3: Model Training finished.
+- Lab 6 and 7 completed
+- 47% of this course finished.
 
 
 
