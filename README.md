@@ -148,6 +148,15 @@ Worked on my ML project: stock price forecasting
 - Lab 6 and 7 completed
 - 47% of this course finished.
 
+## Day 33: (08.14.2020.)
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+- Lesson 6: Programming Workflow for Data Analysis finished
+
+### Azure-ML Scholarship:
+- Lesson 4: Supervised and Unsupervised Learning : Concepts 1-13 finished.
+- Lab 8, 9, 10 completed
+- 57% of this course finished.
 
 
 
