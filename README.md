@@ -167,6 +167,20 @@ Worked on my ML project: stock price forecasting
 - Lab 11, 12 completed
 - 63% of this course finished.
 
+## Day 35: (08.16.2020.)
+### Azure-ML Scholarship:
+- Participated in the Study Jam
+- Lesson 4: Supervised and Unsupervised Learning finished.
+- Lab 13 completed
+- 67% of this course finished
+- Study Jam goal completed.
+
+## Day 36: (08.17.2020.)
+### Azure-ML Scholarship:
+- Lesson 5: Applications of Machine Learning: Concepts 1-8 finished.
+- Lab 14 completed
+- 70% of this course finished
+
 
 
 
