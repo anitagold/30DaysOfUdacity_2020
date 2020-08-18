@@ -181,6 +181,12 @@ Worked on my ML project: stock price forecasting
 - Lab 14 completed
 - 70% of this course finished
 
+## Day 37: (08.18.2020.)
+### Azure-ML Scholarship:
+- Lesson 5: Applications of Machine Learning: Concepts 8-13 finished.
+- Lab 15 completed
+- 73% of this course finished
+
 
 
 
