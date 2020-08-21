@@ -193,6 +193,11 @@ Worked on my ML project: stock price forecasting
 - Lab 16, 17 completed
 - 80% of this course finished
 
+## Day 39: (08.20.2020.)
+### Azure-ML Scholarship:
+- Lesson 6: Managed Services for Machine Learning: Concepts 1-7 finished.
+- Lab 18 completed
+- 85% of this course finished
 
 
 
