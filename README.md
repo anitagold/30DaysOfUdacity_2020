@@ -205,5 +205,21 @@ Worked on my ML project: stock price forecasting
 - Lab 19, 20 completed
 - 90% of this course finished
 
+## Day 41: (08.22.2020.): Day off
+
+## Day 42: (08.23.2020.)
+### Azure-ML Scholarship:
+- Lesson 6: Managed Services for Machine Learning finished.
+- Lab 21 - Deploy a trained model as a webservice completed
+- Lab 22 - Training and deploying a model from a notebook running in a
+Compute Instance completed
+- Lesson 7: Responsible AI: Concepts 1-4 finished.
+- 97% of this course finished
+
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+- Part 3. Practical Statistics - Lesson 1: Descriptive Statistics - Part I. finished
+- Part 3. Practical Statistics - Lesson 2: Descriptive Statistics - Part II. finished
+
 
 
