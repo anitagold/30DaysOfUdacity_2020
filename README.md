@@ -221,5 +221,9 @@ Compute Instance completed
 - Part 3. Practical Statistics - Lesson 1: Descriptive Statistics - Part I. finished
 - Part 3. Practical Statistics - Lesson 2: Descriptive Statistics - Part II. finished
 
+## Day 43: (08.24.2020.)
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+
 
 
