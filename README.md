@@ -225,5 +225,18 @@ Compute Instance completed
 ### Data Analyst Nanodegree: 
 - I worked on the second project: Investigate a dataset
 
+## Day 44: (08.25.2020.)
+### Azure-ML Scholarship:
+- Lesson 7: Responsible AI finished.
+- Lab 23 - Explaining models: Model interpretability with Azure Machine
+Learning service finished
+- Lesson 8: Course conclusion finished.
+- 100% of this course finished
+- Joined Microsoft Azure Virtual Training Day: Day 1
+
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+- Part 3. Practical Statistics - Lesson 3: Admissions Case Study: Concepts 1-12 finished
+
 
 
