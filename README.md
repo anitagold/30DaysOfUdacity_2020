@@ -238,5 +238,24 @@ Learning service finished
 - I worked on the second project: Investigate a dataset
 - Part 3. Practical Statistics - Lesson 3: Admissions Case Study: Concepts 1-12 finished
 
+## Day 45: (08.26.2020.)
+### Azure-ML Scholarship:
+- Joined Microsoft Azure Virtual Training Day: Day 2
+
+## Day 46: (08.27.2020.)
+### Data Analyst Nanodegree: 
+- I worked on the second project: Investigate a dataset
+
+### Azure-ML Scholarship:
+- I revised my Azure notes
+- I learned for the Azure exam
+
+## Day 47-49: (08.28.2020.-08.30.2020.)
+### Data Analyst Nanodegree: 
+- I finished the second project: Investigate a dataset
+
+### Azure-ML Scholarship:
+- I learned for the Azure exam
+- I checked and resubmitted every quiz
 
 
