@@ -263,6 +263,10 @@ Learning service finished
 - Part 3. Practical Statistics - Lesson 3: Admissions Case Study finished
 - Part 3. Practical Statistics - Lesson 4: Probability started
 
+## Day 51: (09.01.2020.)
+### Data Analyst Nanodegree: 
+- Part 3. Practical Statistics - Lesson 4: Probability finished
+- Third project started
 
 
 
