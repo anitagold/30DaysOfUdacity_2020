@@ -258,4 +258,11 @@ Learning service finished
 - I learned for the Azure exam
 - I checked and resubmitted every quiz
 
+## Day 50: (08.31.2020.)
+### Data Analyst Nanodegree: 
+- Part 3. Practical Statistics - Lesson 3: Admissions Case Study finished
+- Part 3. Practical Statistics - Lesson 4: Probability started
+
+
+
 
