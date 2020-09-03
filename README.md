@@ -268,5 +268,15 @@ Learning service finished
 - Part 3. Practical Statistics - Lesson 4: Probability finished
 - Third project started
 
+## Day 52: (09.02.2020.)
+
+### Azure-ML Scholarship:
+- I revised the course
+- I double-checked every quiz
+- I set my slack status update to 'course-completed'
+
+### Data Analyst Nanodegree: 
+- Worked on the third project 
+
 
 
