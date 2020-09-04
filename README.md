@@ -278,5 +278,13 @@ Learning service finished
 ### Data Analyst Nanodegree: 
 - Worked on the third project 
 
+## Day 53: (09.03.2020.)
+
+### Azure-ML Scholarship:
+- I revisited the course content
+
+### Data Analyst Nanodegree: 
+- Part 3. Practical Statistics - Lesson 5: Binomial distribution finished
+
 
 
