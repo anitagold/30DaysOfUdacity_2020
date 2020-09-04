@@ -286,5 +286,11 @@ Learning service finished
 ### Data Analyst Nanodegree: 
 - Part 3. Practical Statistics - Lesson 5: Binomial distribution finished
 
+## Day 54: (09.04.2020.)
+
+### Data Analyst Nanodegree: 
+- Part 3. Practical Statistics - Lesson 6: Conditional Probability finished
+- Part 3. Practical Statistics - Lesson 6: Bayes Rule started
+
 
 
