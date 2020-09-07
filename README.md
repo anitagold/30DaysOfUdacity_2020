@@ -292,5 +292,12 @@ Learning service finished
 - Part 3. Practical Statistics - Lesson 6: Conditional Probability finished
 - Part 3. Practical Statistics - Lesson 6: Bayes Rule started
 
+## Day 55: (09.05.2020.): Day off
+
+## Day 56: (09.06.2020.)
+
+### Data Analyst Nanodegree:  
+- Part 3. Practical Statistics - Lesson 7: Bayes Rule finished
+- Part 3. Practical Statistics - Lesson 8: Python Probability Practice started
 
 
