@@ -300,4 +300,7 @@ Learning service finished
 - Part 3. Practical Statistics - Lesson 7: Bayes Rule finished
 - Part 3. Practical Statistics - Lesson 8: Python Probability Practice started
 
+## Day 57-59: (09.07.2020.-09.09.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the third project 
 
