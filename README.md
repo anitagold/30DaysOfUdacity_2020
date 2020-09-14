@@ -304,3 +304,10 @@ Learning service finished
 ### Data Analyst Nanodegree: 
 - Worked on the third project 
 
+## Day 60-63: (09.10.2020.-09.13.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the second and the third project 
+- Finalized the second project and finished the documentation
+- Submitted the second project
+
+
