@@ -310,4 +310,8 @@ Learning service finished
 - Finalized the second project and finished the documentation
 - Submitted the second project
 
+## Day 64: (09.14.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the third project  
+- Part 3. Practical Statistics - Lesson 8-13 finished
 
