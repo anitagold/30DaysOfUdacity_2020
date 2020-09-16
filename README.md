@@ -315,3 +315,8 @@ Learning service finished
 - Worked on the third project  
 - Part 3. Practical Statistics - Lesson 8-13 finished
 
+## Day 65: (09.15.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the third project  
+- Part 3. Practical Statistics - Lesson 14-16 finished
+
