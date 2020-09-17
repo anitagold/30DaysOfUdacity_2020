@@ -320,3 +320,11 @@ Learning service finished
 - Worked on the third project  
 - Part 3. Practical Statistics - Lesson 14-16 finished
 
+## Day 66: (09.16.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the third project  
+- Submitted the third project
+- Started to work on the fourth project
+- Part 4. Data Wrangling - Lesson 1 finished
+- Part 4. Data Wrangling - Lesson 2 started
+
