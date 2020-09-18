@@ -328,3 +328,10 @@ Learning service finished
 - Part 4. Data Wrangling - Lesson 1 finished
 - Part 4. Data Wrangling - Lesson 2 started
 
+## Day 67: (09.17.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the fourth project  
+- Worked on the fifth project
+- Part 5. Data Visualization: Lesson 1-2 finished
+- Part 5. Data Visualization: Lesson 3 started
+
