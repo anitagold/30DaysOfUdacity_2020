@@ -335,3 +335,9 @@ Learning service finished
 - Part 5. Data Visualization: Lesson 1-2 finished
 - Part 5. Data Visualization: Lesson 3 started
 
+## Day 68: (09.18.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the fifth project
+- Part 5. Data Visualization: Lesson 3 finished
+
+
