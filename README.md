@@ -340,4 +340,15 @@ Learning service finished
 - Worked on the fifth project
 - Part 5. Data Visualization: Lesson 3 finished
 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+After 68 days of continuous learning, I took 3 days pause. 
+Today I decided to make another "30 days of Udacity" challenge.
+
+## Day 1: (09.22.2020.)
+### Data Analyst Nanodegree: 
+- I pledged again for #30daysofUdacity Challenge
+- Reviewed Part 1-3
+
 
