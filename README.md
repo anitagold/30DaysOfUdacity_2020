@@ -362,6 +362,13 @@ Today I decided to make another "30 days of Udacity" challenge.
 - Worked on the seventh project: Communicate Data Findings
 - Part 5. Data Visualization: Lesson 3: Concepts 4-12 finished
 
+## Day 4: (09.25.2020.)
+### Data Analyst Nanodegree: 
+- Worked on the fourth project: Optimize Your GitHub Profile
+- Worked on the fifth project: Analyze Twitter Data
+- Part 4. Data Wrangling: Lesson 2: Concepts 1-9 finished
+
+
 
 
 
