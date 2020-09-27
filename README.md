@@ -368,6 +368,10 @@ Today I decided to make another "30 days of Udacity" challenge.
 - Worked on the fifth project: Analyze Twitter Data
 - Part 4. Data Wrangling: Lesson 2: Concepts 1-9 finished
 
+## Day 5: (09.26.2020.)
+### Data Analyst Nanodegree: 
+- Part 4. Data Wrangling: Lesson 2: Concepts 9-18 finished
+
 
 
 
