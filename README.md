@@ -386,6 +386,10 @@ Today I decided to make another "30 days of Udacity" challenge.
 - Submitted the fourth project: Optimize Your GitHub Profile
 - Part 4. Data Wrangling: Lesson 3: Assessing Data: Concepts 1-11 finished
 
+## Day 9: (09.30.2020.)
+### Data Analyst Nanodegree: 
+- Part 4. Data Wrangling: Lesson 3: Assessing Data: Concepts 11-22 finished
+
 
 
 
