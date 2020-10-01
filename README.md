@@ -390,6 +390,13 @@ Today I decided to make another "30 days of Udacity" challenge.
 ### Data Analyst Nanodegree: 
 - Part 4. Data Wrangling: Lesson 3: Assessing Data: Concepts 11-22 finished
 
+## Day 10: (10.01.2020.)
+### Azure-ML Scholarship:
+- I went through the course content
+
+### Data Analyst Nanodegree: 
+- Part 4. Data Wrangling: Lesson 4: Cleaning Data : Concepts 1-10 finished
+
 
 
 
