@@ -397,6 +397,10 @@ Today I decided to make another "30 days of Udacity" challenge.
 ### Data Analyst Nanodegree: 
 - Part 4. Data Wrangling: Lesson 4: Cleaning Data : Concepts 1-10 finished
 
+I had a lot of work, I had to take a little break, so today I started again.
+## Day 1: (10.09.2020.)
+### Data Analyst Nanodegree: 
+- Part 4. Data Wrangling: Lesson 4: Cleaning Data : Concepts 10-20 finished
 
 
 
