@@ -402,6 +402,14 @@ I had a lot of work, I had to take a little break, so today I started again.
 ### Data Analyst Nanodegree: 
 - Part 4. Data Wrangling: Lesson 4: Cleaning Data : Concepts 10-20 finished
 
+---------------------------------------------------------------------------
+--------------------- The end ---------------------------------------------
+---------------------------------------------------------------------------
+The Udacity team has decided to close down the 30 Days of Udacity Challenge. 
+They are no longer accepting submissions so I finish them too. 
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
 
 
 
